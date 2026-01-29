@@ -38,7 +38,7 @@ Le pipeline transforme les données de télémétrie brutes (CPU, Température, 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/noermnproject/DistributedSparkHPCSentinelWithDocker.git](https://github.com/noermnproject/DistributedSparkHPCSentinelWithDocker.git)
+git clone [https://github.com/noermnprojects/DistributedSparkHPCSentinelWithDocker.git](https://github.com/noermnprojects/DistributedSparkHPCSentinelWithDocker.git)
 
 # Build and start the distributed cluster (Master + Workers + Jupyter)
 docker-compose up -d --build
